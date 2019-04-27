@@ -1,0 +1,16 @@
+E:\我的学习\代码生成器\DataBaseTG\DataBaseTG\bin\Debug\DataBaseTG.exe.config
+E:\我的学习\代码生成器\DataBaseTG\DataBaseTG\bin\Debug\DataBaseTG.exe
+E:\我的学习\代码生成器\DataBaseTG\DataBaseTG\bin\Debug\DataBaseTG.pdb
+E:\我的学习\代码生成器\DataBaseTG\DataBaseTG\bin\Debug\Dapper.dll
+E:\我的学习\代码生成器\DataBaseTG\DataBaseTG\bin\Debug\Dapper.xml
+E:\我的学习\代码生成器\DataBaseTG\DataBaseTG\obj\Debug\DataBaseTG.Properties.Resources.resources
+E:\我的学习\代码生成器\DataBaseTG\DataBaseTG\obj\Debug\DataBaseTG.csproj.GenerateResource.cache
+E:\我的学习\代码生成器\DataBaseTG\DataBaseTG\obj\Debug\DataBaseTG.csproj.CoreCompileInputs.cache
+E:\我的学习\代码生成器\DataBaseTG\DataBaseTG\obj\Debug\DataBaseTG.csproj.CopyComplete
+E:\我的学习\代码生成器\DataBaseTG\DataBaseTG\obj\Debug\DataBaseTG.exe
+E:\我的学习\代码生成器\DataBaseTG\DataBaseTG\obj\Debug\DataBaseTG.pdb
+E:\我的学习\代码生成器\DataBaseTG\DataBaseTG\obj\Debug\DataBaseTG.DataBaseMain.resources
+E:\我的学习\代码生成器\DataBaseTG\DataBaseTG\obj\Debug\DataBaseTG.csprojAssemblyReference.cache
+E:\我的学习\代码生成器\DataBaseTG\DataBaseTG\bin\Debug\Newtonsoft.Json.dll
+E:\我的学习\代码生成器\DataBaseTG\DataBaseTG\bin\Debug\Pomelo.Data.MySql.dll
+E:\我的学习\代码生成器\DataBaseTG\DataBaseTG\bin\Debug\Newtonsoft.Json.xml
