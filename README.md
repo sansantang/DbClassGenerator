@@ -1,7 +1,7 @@
 # DbClassGenerator
 数据库类生成器
 
-# v0.1  
+# v1.0 
 
 2019-02-11
 
